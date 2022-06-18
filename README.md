@@ -34,5 +34,7 @@ MinhaRaquete:
 
 
 **Projeto:** 
-https://scratch.mit.edu/projects/706474053/
-https://editor.p5js.org/Shiganhiga/sketches/J14-5ctzh
+
+Scratch: https://scratch.mit.edu/projects/706474053/
+
+P5.js: https://editor.p5js.org/Shiganhiga/sketches/J14-5ctzh
